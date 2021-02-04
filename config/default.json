@@ -1,0 +1,4 @@
+{
+    "port": 3050,
+    "mongo_uri":"mongodb+srv://testcrypto:qwerty123@cluster0.eyyi8.mongodb.net/app?retryWrites=true&w=majority"
+}
